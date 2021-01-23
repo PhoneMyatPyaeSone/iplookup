@@ -1,4 +1,16 @@
 aminter.co.th(111.223.52.128)
+20/tcp    closed ftp-data
+25/tcp    open   smtp       Exim smtpd 4.85
+80/tcp    open   http       nginx 1.16.1
+85/tcp    open   http       Apache httpd 2
+110/tcp   open   pop3       Dovecot DirectAdmin pop3d
+143/tcp   open   imap       Dovecot imapd
+443/tcp   open   ssl/http   nginx 1.16.1
+465/tcp   open   ssl/smtp   Exim smtpd 4.85
+587/tcp   open   smtp       Exim smtpd 4.85
+993/tcp   open   ssl/imaps?
+995/tcp   open   ssl/pop3s?
+********************************************************************************************************************
 kyanc.edu.bd (203.130.133.165)
 jenicofoods.co.kr (115.68.17.179)
 mpuat.ac.in (192.185.146.206)
